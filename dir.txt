@@ -1,0 +1,10 @@
+ Le volume dans le lecteur D s'appelle Docs
+ Le num‚ro de s‚rie du volume est E842-30F4
+
+ R‚pertoire de D:\__projets\MCF\www\wp-content\themes\gitest
+
+02/07/2020  08:37    <DIR>          .
+02/07/2020  08:37    <DIR>          ..
+02/07/2020  08:37                 0 dir.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  283ÿ900ÿ346ÿ368 octets libres
